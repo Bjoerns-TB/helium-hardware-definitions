@@ -234,7 +234,7 @@ variant_definitions = {
         'TYPE': 'Light',
         'CELLULAR': False
         },
-    
+
     # DIY IMST LGW
     'DIY-IMST': {
         'FRIENDLY': 'DIY IMST Lite Gateway',
