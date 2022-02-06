@@ -5,16 +5,16 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name='hm-hardware-defs',
-    version='0.1.6a3',
+    name='ba-hardware-defs',
+    version='0.1.6a4',
     author="Nebra Ltd",
     author_email="sales@nebra.com",
     description="Helium Hardware Definitions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/NebraLtd/helium-hardware-definitions",
+    url="https://github.com/Bjoerns-TB/helium-hardware-definitions,
     project_urls={
-        "Bug Tracker": "https://github.com/NebraLtd/"
+        "Bug Tracker": "https://github.com/Bjoerns-TB/"
                        "helium-hardware-definitions/issues",
     },
     package_dir={"": "src"},
