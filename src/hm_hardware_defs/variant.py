@@ -234,6 +234,19 @@ variant_definitions = {
         'TYPE': 'Light',
         'CELLULAR': False
         },
+    
+    # DIY IMST LGW
+    'DIY-IMST': {
+        'FRIENDLY': 'DIY IMST Lite Gateway',
+        'SPIBUS': 'spidev0.0',
+        'RESET': 29,
+        'MAC': 'eth0',
+        'STATUS': 20,
+        'BUTTON': 21,
+        'ECCOB': False,
+        'TYPE': 'Light',
+        'CELLULAR': False
+        },
 
     # Nebra Indoor Hotspot
     'DIY-RAK2287': {
