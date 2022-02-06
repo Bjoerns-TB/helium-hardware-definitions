@@ -12,7 +12,7 @@ setuptools.setup(
     description="Helium Hardware Definitions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Bjoerns-TB/helium-hardware-definitions,
+    url="https://github.com/Bjoerns-TB/helium-hardware-definitions",
     project_urls={
         "Bug Tracker": "https://github.com/Bjoerns-TB/"
                        "helium-hardware-definitions/issues",
