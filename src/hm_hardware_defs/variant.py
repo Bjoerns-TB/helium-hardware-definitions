@@ -239,7 +239,7 @@ variant_definitions = {
     'DIY-IMST': {
         'FRIENDLY': 'DIY IMST Lite Gateway',
         'SPIBUS': 'spidev0.0',
-        'RESET': 29,
+        'RESET': 5,
         'MAC': 'eth0',
         'STATUS': 20,
         'BUTTON': 21,
